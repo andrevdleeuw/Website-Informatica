@@ -1,3 +1,21 @@
-#hi {
-	background-color: red;
+#body {
+	background-color: #f3f3f0;
+}
+#h1 {
+	background-color: #f3f3f0;
+	width: 60%;
+	border-width: 0,5em;
+	border-style: solid;
+	border-color: black;
+	margin-left: 20%;
+	text-align: center;
+}
+#p1 {
+	text-align: justified;
+	border-style: solid;
+	border-width: 2%;
+	border-color: #aaaaff;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding: 1em;
 }

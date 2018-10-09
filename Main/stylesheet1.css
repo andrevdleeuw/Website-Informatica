@@ -45,6 +45,7 @@
 }*/
 /* Vanaf hier ben ik verder gegaan */
 
+/*HEADER CSS*/
 #headerText {
 	font-family: Verdana;
 	text-align: center;
@@ -64,6 +65,7 @@
 	text-shadow: 3px 3px gray;
 }
 
+/*MENUBALK CSS*/
 #menuBalk {
 	background-color: rgb(50, 146, 50);
 	height: 3em;
@@ -95,6 +97,7 @@
 	box-shadow: 0px 10px 5px 0px rgba(159, 159, 159, 0.69);
 }
 
+/*LOGIN CSS*/
 .login {
 	text-align: center;
 	margin-top: 2%;
@@ -164,3 +167,35 @@
 	width: 9em;
 }
 
+/*SHOP CSS*/
+
+#spacer {
+	height: 2em;
+}
+
+.catImg {
+	border: 2px;
+	height: 20em;
+	width: 20em;
+	margin-left: 1%;
+	margin-right: 1%;
+	text-align: left;
+}
+
+.catImg:hover {
+	height: 21em;
+	width: 21em;
+}
+
+#catHead {
+	text-align: center;
+	margin-bottom: 5%;
+	font-family: "century gothic";
+	font-weight: bold;
+	color: rgb(80, 78, 78);
+}
+
+#categoryContainer {
+	margin-left: 5%;
+	margin-right: 5%;
+}

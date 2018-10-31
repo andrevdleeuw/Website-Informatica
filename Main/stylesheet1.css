@@ -130,6 +130,25 @@
 	width: 9em;
 }
 
+/*HOME CSS*/
+
+#homeText {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25px;
+	width: 50em;
+	font-family: Arial;
+	border-style: solid;
+	border-color: rgb(20, 124, 20);
+	border-width: 0.5em;
+	background-color: rgb(204, 255, 204);
+	padding: 0.5em;
+}
+
+#homeHeader {
+	text-align: center;
+}
+
 
 /*CONTACT CSS*/
 
@@ -143,13 +162,20 @@
 	border-color: rgb(20, 124, 20);
 	border-width: 0.5em;
 	background-color: rgb(204, 255, 204);
-	padding: 0.5em;
+	padding: 1em;
 }
 
 #contactHeader {
 	text-align: center;
 }
 
+#contactQuestion {
+	text-align: center;
+}
+
+#contactP {
+	padding-left: 20px;
+}
 
 /*SHOP CSS*/
 
